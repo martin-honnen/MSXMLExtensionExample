@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<result name="HostIntegrationRequest" id="0071" status="0">
+    <XML>
+        <![CDATA[<Document xmlns="urn:iso:std:iso:20022:tech:xsd:taco.097.001.90"><GrpHdr><MsgId>20230825066</MsgId></GrpHdr></Document>]]></XML>
+    <RefId><![CDATA[4]]></RefId>
+</result>
